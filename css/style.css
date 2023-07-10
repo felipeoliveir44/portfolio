@@ -47,6 +47,7 @@ body::-webkit-scrollbar-thumb {
     visibility: hidden;
     z-index: 999;
     transition: all .4s ease;
+    border: none;
 }
 
 .scroll {
@@ -716,6 +717,7 @@ i:hover {
         width: 400px;
         height: 200px;
         color: white;
+        padding: 20px;
     }
 
 
